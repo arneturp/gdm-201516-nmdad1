@@ -4,7 +4,7 @@ NMDAD I: Arne Turpyn
 Bestanden
 ---------
 
-* [Résumé](resume.md)
+* [Résumé](docs/resume.md)
 
 Auteur
 ------
